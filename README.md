@@ -11,4 +11,4 @@
 
 ### Experiments
 
-- [clean-pipenv-bun](https://gitlab.com/joaommpalmeiro/clean-pipenv-bun): Delete Pipenv virtual environments via Bun Shell.
+- [clean-envs-bun](https://gitlab.com/joaommpalmeiro/clean-envs-bun): Delete conda and Pipenv virtual environments via Bun Shell.
