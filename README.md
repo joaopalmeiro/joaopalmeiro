@@ -7,6 +7,7 @@
 ### Data
 
 - [election-debate-schedules](https://gitlab.com/joaommpalmeiro/election-debate-schedules): JSON and iCalendar files for Portuguese election debate schedules.
+- [pt-parties-metadata](https://gitlab.com/joaommpalmeiro/pt-parties-metadata): Metadata about Portuguese political parties to reuse in different projects.
 
 ### Design
 
