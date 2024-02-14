@@ -16,6 +16,7 @@
 ### Experiments
 
 - [clean-envs-bun](https://gitlab.com/joaommpalmeiro/clean-envs-bun): Delete conda and Pipenv virtual environments via Bun Shell.
+- [snippets](https://github.com/joaopalmeiro/snippets): A collection of ready-to-test code snippets for different technologies.
 
 ### Templates
 
