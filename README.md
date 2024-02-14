@@ -4,6 +4,10 @@
 
 - [map-links](https://gitlab.com/joaommpalmeiro/map-links): List of web mapping platform URLs for certain places.
 
+### Data
+
+- [election-debate-schedules](https://gitlab.com/joaommpalmeiro/election-debate-schedules): JSON and iCalendar files for Portuguese election debate schedules.
+
 ### Design
 
 - [figma-tokens](https://codeberg.org/joaopalmeiro/figma-tokens): Token files for defining styles in Figma via Tokens Studio for Figma.
