@@ -14,5 +14,6 @@
 
 ### Templates
 
-- [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
 - [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
+- [template-ts-jiti-script](https://github.com/joaopalmeiro/template-ts-jiti-script): Opinionated TypeScript + jiti template for new scripts.
+- [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
