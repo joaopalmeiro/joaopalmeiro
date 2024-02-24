@@ -3,6 +3,7 @@
 ### Copy and Paste
 
 - [map-links](https://gitlab.com/joaommpalmeiro/map-links): List of web mapping platform URLs for certain places.
+- [svg-favicons](https://codeberg.org/joaopalmeiro/svg-favicons): SVG favicons to use in different projects.
 
 ### Data
 
