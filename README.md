@@ -24,3 +24,4 @@
 - [template-ts-jiti-script](https://github.com/joaopalmeiro/template-ts-jiti-script): Opinionated TypeScript + jiti template for new scripts.
 - [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
 - [template-python-venv-script](https://github.com/joaopalmeiro/template-python-venv-script): Opinionated Python + venv template for new scripts.
+- [template-qwik-city-static](https://github.com/joaopalmeiro/template-qwik-city-static): Opinionated Qwik City + SSG template for new projects.
