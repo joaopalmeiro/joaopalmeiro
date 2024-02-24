@@ -25,6 +25,10 @@
 
 - [resetss](https://gitlab.com/joaommpalmeiro/resetss): Different CSS resets ready to be used.
 
+#### Shareable Configs
+
+- [create-vue-tsconfigs](https://github.com/joaopalmeiro/create-vue-tsconfigs): TSConfig files for projects created with create-vue.
+
 ### Templates
 
 - [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
