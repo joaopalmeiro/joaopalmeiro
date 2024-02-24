@@ -28,6 +28,7 @@
 #### Shareable Configs
 
 - [create-vue-tsconfigs](https://github.com/joaopalmeiro/create-vue-tsconfigs): TSConfig files for projects created with create-vue.
+- [npm-package-json-lint-config-package](https://github.com/joaopalmeiro/npm-package-json-lint-config-package): Shareable npm-package-json-lint configuration for packages.
 
 ### Templates
 
