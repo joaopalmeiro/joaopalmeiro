@@ -18,6 +18,12 @@
 - [clean-envs-bun](https://gitlab.com/joaommpalmeiro/clean-envs-bun): Delete conda and Pipenv virtual environments via Bun Shell.
 - [snippets](https://github.com/joaopalmeiro/snippets): A collection of ready-to-test code snippets for different technologies.
 
+### Packages
+
+#### CSS
+
+- [resetss](https://gitlab.com/joaommpalmeiro/resetss): Different CSS resets ready to be used.
+
 ### Templates
 
 - [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
