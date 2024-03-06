@@ -44,3 +44,4 @@
 - [template-qwik-package](https://github.com/joaopalmeiro/template-qwik-package): Opinionated Qwik template for new component packages.
 - [template-ts-jiti-script](https://github.com/joaopalmeiro/template-ts-jiti-script): Opinionated TypeScript + jiti template for new scripts.
 - [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
+- [template-ts-package](https://github.com/joaopalmeiro/template-ts-package): Opinionated TypeScript template for new packages.
