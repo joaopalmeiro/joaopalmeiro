@@ -29,6 +29,10 @@
 
 - [resetss](https://gitlab.com/joaommpalmeiro/resetss): Different CSS resets ready to be used.
 
+#### JavaScript
+
+- [constantes](https://gitlab.com/joaommpalmeiro/constantes): Reusable constants for different projects.
+
 #### Shareable Configs
 
 - [@joaopalmeiro/prettier-config](https://github.com/joaopalmeiro/prettier-config): My personal Prettier config.
