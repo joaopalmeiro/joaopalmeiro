@@ -33,6 +33,7 @@
 
 - [@joaopalmeiro/prettier-config](https://github.com/joaopalmeiro/prettier-config): My personal Prettier config.
 - [create-vue-tsconfigs](https://github.com/joaopalmeiro/create-vue-tsconfigs): TSConfig files for projects created with create-vue.
+- [misc-tsconfigs](https://codeberg.org/joaopalmeiro/misc-tsconfigs): TSConfig files from different projects to reuse in new projects.
 - [npm-package-json-lint-config-package](https://github.com/joaopalmeiro/npm-package-json-lint-config-package): Shareable npm-package-json-lint configuration for packages.
 
 ### Templates
