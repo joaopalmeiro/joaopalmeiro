@@ -1,5 +1,9 @@
 ## Projects
 
+### CLIs
+
+- [cblone](https://codeberg.org/joaopalmeiro/cblone): A CLI to back up all your Codeberg repositories.
+
 ### Copy and Paste
 
 - [map-links](https://gitlab.com/joaommpalmeiro/map-links): List of web mapping platform URLs for certain places.
@@ -33,6 +37,10 @@
 
 - [constantes](https://gitlab.com/joaommpalmeiro/constantes): Reusable constants for different projects.
 
+#### Python
+
+- [gaveta](https://gitlab.com/joaommpalmeiro/gaveta): Vanilla utility functions for different projects.
+
 #### Shareable Configs
 
 - [@joaopalmeiro/prettier-config](https://github.com/joaopalmeiro/prettier-config): My personal Prettier config.
@@ -43,12 +51,12 @@
 
 ### Templates
 
+- [template-python-cli](https://github.com/joaopalmeiro/template-python-cli): Opinionated Python template for new CLIs.
+- [template-python-package](https://github.com/joaopalmeiro/template-python-package): Opinionated Python template for new packages.
 - [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
 - [template-python-venv-script](https://github.com/joaopalmeiro/template-python-venv-script): Opinionated Python + venv template for new scripts.
 - [template-qwik-city-static](https://github.com/joaopalmeiro/template-qwik-city-static): Opinionated Qwik City + SSG template for new projects.
 - [template-qwik-package](https://github.com/joaopalmeiro/template-qwik-package): Opinionated Qwik template for new component packages.
 - [template-ts-jiti-script](https://github.com/joaopalmeiro/template-ts-jiti-script): Opinionated TypeScript + jiti template for new scripts.
-- [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
 - [template-ts-package](https://github.com/joaopalmeiro/template-ts-package): Opinionated TypeScript template for new packages.
-- [template-python-cli](https://github.com/joaopalmeiro/template-python-cli): Opinionated Python template for new CLIs.
-- [template-python-package](https://github.com/joaopalmeiro/template-python-package): Opinionated Python template for new packages.
+- [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
