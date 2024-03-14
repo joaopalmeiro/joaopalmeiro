@@ -7,6 +7,8 @@
 ### CLIs
 
 - [cblone](https://codeberg.org/joaopalmeiro/cblone): A CLI to back up all your Codeberg repositories.
+- [glone](https://github.com/joaopalmeiro/glone): A CLI to back up all your GitHub repositories.
+- [lablone](https://gitlab.com/joaommpalmeiro/lablone): A CLI to back up all your GitLab repositories.
 
 ### Copy and Paste
 
