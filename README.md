@@ -58,6 +58,7 @@
 - [template-python-cli](https://github.com/joaopalmeiro/template-python-cli): Opinionated Python template for new CLIs.
 - [template-python-package](https://github.com/joaopalmeiro/template-python-package): Opinionated Python template for new packages.
 - [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
+- [template-python-uv-script](https://github.com/joaopalmeiro/template-python-uv-script): Opinionated Python + uv template for new scripts.
 - [template-python-venv-script](https://github.com/joaopalmeiro/template-python-venv-script): Opinionated Python + venv template for new scripts.
 - [template-qwik-city-static](https://github.com/joaopalmeiro/template-qwik-city-static): Opinionated Qwik City + SSG template for new projects.
 - [template-qwik-package](https://github.com/joaopalmeiro/template-qwik-package): Opinionated Qwik template for new component packages.
