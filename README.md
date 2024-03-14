@@ -49,6 +49,10 @@
 - [misc-tsconfigs](https://codeberg.org/joaopalmeiro/misc-tsconfigs): TSConfig files from different projects to reuse in new projects.
 - [npm-package-json-lint-config-package](https://github.com/joaopalmeiro/npm-package-json-lint-config-package): Shareable npm-package-json-lint configuration for packages.
 
+### Setups
+
+- [dotfiles](https://github.com/joaopalmeiro/dotfiles): A collection of dotfiles and related personal notes.
+
 ### Templates
 
 - [template-python-cli](https://github.com/joaopalmeiro/template-python-cli): Opinionated Python template for new CLIs.
