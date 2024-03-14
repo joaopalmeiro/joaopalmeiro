@@ -1,5 +1,9 @@
 ## Projects
 
+### Backups
+
+- [podcasts-backup](https://github.com/joaopalmeiro/podcasts-backup): Backup scripts and files for my listened podcasts.
+
 ### CLIs
 
 - [cblone](https://codeberg.org/joaopalmeiro/cblone): A CLI to back up all your Codeberg repositories.
