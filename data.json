@@ -26,5 +26,40 @@
     "description": "A CLI to back up all your GitLab repositories.",
     "category": "CLI",
     "subcategory": null
+  },
+  {
+    "name": "map-links",
+    "url": "https://gitlab.com/joaommpalmeiro/map-links",
+    "description": "List of web mapping platform URLs for certain places.",
+    "category": "Copy and Paste",
+    "subcategory": null
+  },
+  {
+    "name": "svg-favicons",
+    "url": "https://codeberg.org/joaopalmeiro/svg-favicons",
+    "description": "SVG favicons to use in different projects.",
+    "category": "Copy and Paste",
+    "subcategory": null
+  },
+  {
+    "name": "election-debate-schedules",
+    "url": "https://gitlab.com/joaommpalmeiro/election-debate-schedules",
+    "description": "JSON and iCalendar files for Portuguese election debate schedules.",
+    "category": "Data",
+    "subcategory": null
+  },
+  {
+    "name": "pt-parties-metadata",
+    "url": "https://gitlab.com/joaommpalmeiro/pt-parties-metadata",
+    "description": "Metadata about Portuguese political parties to reuse in different projects.",
+    "category": "Data",
+    "subcategory": null
+  },
+  {
+    "name": "figma-tokens",
+    "url": "https://codeberg.org/joaopalmeiro/figma-tokens",
+    "description": "Token files for defining styles in Figma via Tokens Studio for Figma.",
+    "category": "Design",
+    "subcategory": null
   }
 ]
