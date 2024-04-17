@@ -1,0 +1,30 @@
+[
+  {
+    "name": "podcasts-backup",
+    "url": "https://github.com/joaopalmeiro/podcasts-backup",
+    "description": "Backup scripts and files for my listened podcasts.",
+    "category": "Backups",
+    "subcategory": null
+  },
+  {
+    "name": "cblone",
+    "url": "https://codeberg.org/joaopalmeiro/cblone",
+    "description": "A CLI to back up all your Codeberg repositories.",
+    "category": "CLIs",
+    "subcategory": null
+  },
+  {
+    "name": "glone",
+    "url": "https://github.com/joaopalmeiro/glone",
+    "description": "A CLI to back up all your GitHub repositories.",
+    "category": "CLIs",
+    "subcategory": null
+  },
+  {
+    "name": "lablone",
+    "url": "https://gitlab.com/joaommpalmeiro/lablone",
+    "description": "A CLI to back up all your GitLab repositories.",
+    "category": "CLIs",
+    "subcategory": null
+  }
+]
