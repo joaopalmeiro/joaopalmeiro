@@ -138,5 +138,82 @@
     "description": "Shareable npm-package-json-lint configuration for packages.",
     "category": "Packages",
     "subcategory": "Shareable Configs"
+  },
+  {
+    "name": "dotfiles",
+    "url": "https://github.com/joaopalmeiro/dotfiles",
+    "description": "A collection of dotfiles and related personal notes.",
+    "category": "Setups",
+    "subcategory": null
+  },
+  {
+    "name": "template-python-cli",
+    "url": "https://github.com/joaopalmeiro/template-python-cli",
+    "description": "Opinionated Python template for new CLIs.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-python-package",
+    "url": "https://github.com/joaopalmeiro/template-python-package",
+    "description": "Opinionated Python template for new packages.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-python-script",
+    "url": "https://github.com/joaopalmeiro/template-python-script",
+    "description": "Opinionated Python template for new scripts.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-python-uv-script",
+    "url": "https://github.com/joaopalmeiro/template-python-uv-script",
+    "description": "Opinionated Python + uv template for new scripts.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-python-venv-script",
+    "url": "https://github.com/joaopalmeiro/template-python-venv-script",
+    "description": "Opinionated Python + venv template for new scripts.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-qwik-city-static",
+    "url": "https://github.com/joaopalmeiro/template-qwik-city-static",
+    "description": "Opinionated Qwik City + SSG template for new projects.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-qwik-package",
+    "url": "https://github.com/joaopalmeiro/template-qwik-package",
+    "description": "Opinionated Qwik template for new component packages.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-ts-jiti-script",
+    "url": "https://github.com/joaopalmeiro/template-ts-jiti-script",
+    "description": "Opinionated TypeScript + jiti template for new scripts.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-ts-package",
+    "url": "https://github.com/joaopalmeiro/template-ts-package",
+    "description": "Opinionated TypeScript template for new packages.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-vue",
+    "url": "https://github.com/joaopalmeiro/template-vue",
+    "description": "Opinionated Vue template for new projects.",
+    "category": "Templates",
+    "subcategory": null
   }
 ]
