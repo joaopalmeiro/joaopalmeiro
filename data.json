@@ -3,28 +3,28 @@
     "name": "podcasts-backup",
     "url": "https://github.com/joaopalmeiro/podcasts-backup",
     "description": "Backup scripts and files for my listened podcasts.",
-    "category": "Backup",
+    "category": "Backups",
     "subcategory": null
   },
   {
     "name": "cblone",
     "url": "https://codeberg.org/joaopalmeiro/cblone",
     "description": "A CLI to back up all your Codeberg repositories.",
-    "category": "CLI",
+    "category": "CLIs",
     "subcategory": null
   },
   {
     "name": "glone",
     "url": "https://github.com/joaopalmeiro/glone",
     "description": "A CLI to back up all your GitHub repositories.",
-    "category": "CLI",
+    "category": "CLIs",
     "subcategory": null
   },
   {
     "name": "lablone",
     "url": "https://gitlab.com/joaommpalmeiro/lablone",
     "description": "A CLI to back up all your GitLab repositories.",
-    "category": "CLI",
+    "category": "CLIs",
     "subcategory": null
   },
   {
@@ -61,5 +61,82 @@
     "description": "Token files for defining styles in Figma via Tokens Studio for Figma.",
     "category": "Design",
     "subcategory": null
+  },
+  {
+    "name": "clean-envs-bun",
+    "url": "https://gitlab.com/joaommpalmeiro/clean-envs-bun",
+    "description": "Delete conda and Pipenv virtual environments via Bun Shell.",
+    "category": "Experiments",
+    "subcategory": null
+  },
+  {
+    "name": "snippets",
+    "url": "https://github.com/joaopalmeiro/snippets",
+    "description": "A collection of ready-to-test code snippets for different technologies.",
+    "category": "Notes",
+    "subcategory": null
+  },
+  {
+    "name": "til",
+    "url": "https://gitlab.com/joaommpalmeiro/til",
+    "description": "Today I Learned (TIL).",
+    "category": "Notes",
+    "subcategory": null
+  },
+  {
+    "name": "resetss",
+    "url": "https://gitlab.com/joaommpalmeiro/resetss",
+    "description": "Different CSS resets ready to be used.",
+    "category": "Packages",
+    "subcategory": "CSS"
+  },
+  {
+    "name": "constantes",
+    "url": "https://gitlab.com/joaommpalmeiro/constantes",
+    "description": "Reusable constants for different projects.",
+    "category": "Packages",
+    "subcategory": "JavaScript"
+  },
+  {
+    "name": "gaveta",
+    "url": "https://gitlab.com/joaommpalmeiro/gaveta",
+    "description": "Vanilla utility functions for different projects.",
+    "category": "Packages",
+    "subcategory": "Python"
+  },
+  {
+    "name": "@joaopalmeiro/prettier-config",
+    "url": "https://github.com/joaopalmeiro/prettier-config",
+    "description": "My personal Prettier config.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
+    "name": "@joaopalmeiro/prettier-vue-config",
+    "url": "https://github.com/joaopalmeiro/prettier-vue-config",
+    "description": "My personal Prettier config for Vue/Nuxt projects.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
+    "name": "create-vue-tsconfigs",
+    "url": "https://github.com/joaopalmeiro/create-vue-tsconfigs",
+    "description": "TSConfig files for projects created with create-vue.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
+    "name": "misc-tsconfigs",
+    "url": "https://codeberg.org/joaopalmeiro/misc-tsconfigs",
+    "description": "TSConfig files from different projects to reuse in new projects.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
+    "name": "npm-package-json-lint-config-package",
+    "url": "https://github.com/joaopalmeiro/npm-package-json-lint-config-package",
+    "description": "Shareable npm-package-json-lint configuration for packages.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
   }
 ]
