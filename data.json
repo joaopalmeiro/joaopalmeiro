@@ -140,6 +140,13 @@
     "subcategory": "Shareable Configs"
   },
   {
+    "name": "solidjs-templates-tsconfigs",
+    "url": "https://github.com/joaopalmeiro/solidjs-templates-tsconfigs",
+    "description": "TSConfig files for projects created from the solidjs/templates and solidjs/solid-start repos.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
     "name": "dotfiles",
     "url": "https://github.com/joaopalmeiro/dotfiles",
     "description": "A collection of dotfiles and related personal notes.",
@@ -150,6 +157,13 @@
     "name": "template-python-cli",
     "url": "https://github.com/joaopalmeiro/template-python-cli",
     "description": "Opinionated Python template for new CLIs.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-python-miniconda-notebook",
+    "url": "https://github.com/joaopalmeiro/template-python-miniconda-notebook",
+    "description": "Opinionated Python + Miniconda template for new notebooks.",
     "category": "Templates",
     "subcategory": null
   },
@@ -215,19 +229,5 @@
     "description": "Opinionated Vue template for new projects.",
     "category": "Templates",
     "subcategory": null
-  },
-  {
-    "name": "template-python-miniconda-notebook",
-    "url": "https://github.com/joaopalmeiro/template-python-miniconda-notebook",
-    "description": "Opinionated Python + Miniconda template for new notebooks.",
-    "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "solidjs-templates-tsconfigs",
-    "url": "https://github.com/joaopalmeiro/solidjs-templates-tsconfigs",
-    "description": "TSConfig files for projects created from the solidjs/templates and solidjs/solid-start repos.",
-    "category": "Packages",
-    "subcategory": "Shareable Configs"
   }
 ]
