@@ -105,6 +105,13 @@
     "subcategory": "Python"
   },
   {
+    "name": "@joaopalmeiro/biome-config",
+    "url": "https://codeberg.org/joaopalmeiro/biome-config",
+    "description": "My personal Biome config.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
     "name": "@joaopalmeiro/prettier-config",
     "url": "https://github.com/joaopalmeiro/prettier-config",
     "description": "My personal Prettier config.",
