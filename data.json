@@ -280,6 +280,13 @@
     "subcategory": null
   },
   {
+    "name": "template-react-vike-static",
+    "url": "https://gitlab.com/joaommpalmeiro/template-react-vike-static",
+    "description": "Opinionated React + Vike + SSG template for new projects.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
     "name": "template-ts-jiti-script",
     "url": "https://github.com/joaopalmeiro/template-ts-jiti-script",
     "description": "Opinionated TypeScript + jiti template for new scripts.",
