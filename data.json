@@ -215,5 +215,12 @@
     "description": "Opinionated Vue template for new projects.",
     "category": "Templates",
     "subcategory": null
+  },
+  {
+    "name": "template-python-miniconda-notebook",
+    "url": "https://github.com/joaopalmeiro/template-python-miniconda-notebook",
+    "description": "Opinionated Python + Miniconda template for new notebooks.",
+    "category": "Templates",
+    "subcategory": null
   }
 ]
