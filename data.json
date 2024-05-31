@@ -49,6 +49,13 @@
     "subcategory": null
   },
   {
+    "name": "tailwind-recipes",
+    "url": "https://gitlab.com/joaommpalmeiro/tailwind-recipes",
+    "description": "HTML and Tailwind CSS snippets adapted from various sources to bootstrap new components.",
+    "category": "Copy and Paste",
+    "subcategory": null
+  },
+  {
     "name": "election-debate-schedules",
     "url": "https://gitlab.com/joaommpalmeiro/election-debate-schedules",
     "description": "JSON and iCalendar files for Portuguese election debate schedules.",
