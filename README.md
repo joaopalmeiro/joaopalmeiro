@@ -66,10 +66,12 @@
 
 ### Templates
 
+- [template-astro](https://github.com/joaopalmeiro/template-astro): Opinionated Astro template for new projects.
 - [template-python-cli](https://github.com/joaopalmeiro/template-python-cli): Opinionated Python template for new CLIs.
 - [template-python-miniconda-notebook](https://github.com/joaopalmeiro/template-python-miniconda-notebook): Opinionated Python + Miniconda template for new notebooks.
 - [template-python-package](https://github.com/joaopalmeiro/template-python-package): Opinionated Python template for new packages.
 - [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
+- [template-python-uv-notebook](https://github.com/joaopalmeiro/template-python-uv-notebook): Opinionated Python + uv template for new notebooks.
 - [template-python-uv-script](https://github.com/joaopalmeiro/template-python-uv-script): Opinionated Python + uv template for new scripts.
 - [template-python-venv-script](https://github.com/joaopalmeiro/template-python-venv-script): Opinionated Python + venv template for new scripts.
 - [template-qwik-city-static](https://github.com/joaopalmeiro/template-qwik-city-static): Opinionated Qwik City + SSG template for new projects.

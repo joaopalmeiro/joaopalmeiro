@@ -182,6 +182,13 @@
     "subcategory": null
   },
   {
+    "name": "template-astro",
+    "url": "https://github.com/joaopalmeiro/template-astro",
+    "description": "Opinionated Astro template for new projects.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
     "name": "template-python-cli",
     "url": "https://github.com/joaopalmeiro/template-python-cli",
     "description": "Opinionated Python template for new CLIs.",
@@ -206,6 +213,13 @@
     "name": "template-python-script",
     "url": "https://github.com/joaopalmeiro/template-python-script",
     "description": "Opinionated Python template for new scripts.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
+    "name": "template-python-uv-notebook",
+    "url": "https://github.com/joaopalmeiro/template-python-uv-notebook",
+    "description": "Opinionated Python + uv template for new notebooks.",
     "category": "Templates",
     "subcategory": null
   },
