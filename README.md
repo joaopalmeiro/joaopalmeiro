@@ -51,6 +51,7 @@
 #### Shareable Configs
 
 - [@joaopalmeiro/biome-config](https://codeberg.org/joaopalmeiro/biome-config): My personal Biome config.
+- [@joaopalmeiro/biome-solid-config](https://codeberg.org/joaopalmeiro/biome-solid-config): My personal Biome config for Solid/SolidStart projects.
 - [@joaopalmeiro/prettier-config](https://github.com/joaopalmeiro/prettier-config): My personal Prettier config.
 - [@joaopalmeiro/prettier-vue-config](https://github.com/joaopalmeiro/prettier-vue-config): My personal Prettier config for Vue/Nuxt projects.
 - [create-vue-tsconfigs](https://github.com/joaopalmeiro/create-vue-tsconfigs): TSConfig files for projects created with create-vue.

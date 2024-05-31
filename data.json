@@ -119,6 +119,13 @@
     "subcategory": "Shareable Configs"
   },
   {
+    "name": "@joaopalmeiro/biome-solid-config",
+    "url": "https://codeberg.org/joaopalmeiro/biome-solid-config",
+    "description": "My personal Biome config for Solid/SolidStart projects.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
     "name": "@joaopalmeiro/prettier-config",
     "url": "https://github.com/joaopalmeiro/prettier-config",
     "description": "My personal Prettier config.",
