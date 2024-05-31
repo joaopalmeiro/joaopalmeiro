@@ -222,5 +222,12 @@
     "description": "Opinionated Python + Miniconda template for new notebooks.",
     "category": "Templates",
     "subcategory": null
+  },
+  {
+    "name": "solidjs-templates-tsconfigs",
+    "url": "https://github.com/joaopalmeiro/solidjs-templates-tsconfigs",
+    "description": "TSConfig files for projects created from the solidjs/templates and solidjs/solid-start repos.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
   }
 ]

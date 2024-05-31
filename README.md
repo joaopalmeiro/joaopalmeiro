@@ -54,6 +54,7 @@
 - [create-vue-tsconfigs](https://github.com/joaopalmeiro/create-vue-tsconfigs): TSConfig files for projects created with create-vue.
 - [misc-tsconfigs](https://codeberg.org/joaopalmeiro/misc-tsconfigs): TSConfig files from different projects to reuse in new projects.
 - [npm-package-json-lint-config-package](https://github.com/joaopalmeiro/npm-package-json-lint-config-package): Shareable npm-package-json-lint configuration for packages.
+- [solidjs-templates-tsconfigs](https://github.com/joaopalmeiro/solidjs-templates-tsconfigs): TSConfig files for projects created from the solidjs/templates and solidjs/solid-start repos.
 
 ### Setups
 
