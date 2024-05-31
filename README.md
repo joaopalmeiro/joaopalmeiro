@@ -2,6 +2,7 @@
 
 ### Backups
 
+- [movies-backup](https://github.com/joaopalmeiro/movies-backup): Backup files for my watched movies.
 - [podcasts-backup](https://github.com/joaopalmeiro/podcasts-backup): Backup scripts and files for my listened podcasts.
 
 ### CLIs

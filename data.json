@@ -1,5 +1,12 @@
 [
   {
+    "name": "movies-backup",
+    "url": "https://github.com/joaopalmeiro/movies-backup",
+    "description": "Backup files for my watched movies.",
+    "category": "Backups",
+    "subcategory": null
+  },
+  {
     "name": "podcasts-backup",
     "url": "https://github.com/joaopalmeiro/podcasts-backup",
     "description": "Backup scripts and files for my listened podcasts.",
