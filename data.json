@@ -56,6 +56,13 @@
     "subcategory": null
   },
   {
+    "name": "instagram-hashtags-photography",
+    "url": "https://codeberg.org/joaopalmeiro/instagram-hashtags-photography",
+    "description": "A dataset of photography-related hashtags to use on Instagram.",
+    "category": "Data",
+    "subcategory": null
+  },
+  {
     "name": "pt-parties-metadata",
     "url": "https://gitlab.com/joaommpalmeiro/pt-parties-metadata",
     "description": "Metadata about Portuguese political parties to reuse in different projects.",
