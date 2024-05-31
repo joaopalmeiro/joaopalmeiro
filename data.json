@@ -126,9 +126,23 @@
     "subcategory": "Shareable Configs"
   },
   {
+    "name": "@joaopalmeiro/biome-react-config",
+    "url": "https://gitlab.com/joaommpalmeiro/biome-react-config",
+    "description": "My personal Biome config for React projects.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
     "name": "@joaopalmeiro/biome-solid-config",
     "url": "https://codeberg.org/joaopalmeiro/biome-solid-config",
     "description": "My personal Biome config for Solid/SolidStart projects.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
+    "name": "@joaopalmeiro/prettier-astro-config",
+    "url": "https://gitlab.com/joaommpalmeiro/prettier-astro-config",
+    "description": "My personal Prettier config for Astro projects.",
     "category": "Packages",
     "subcategory": "Shareable Configs"
   },
@@ -171,6 +185,13 @@
     "name": "solidjs-templates-tsconfigs",
     "url": "https://github.com/joaopalmeiro/solidjs-templates-tsconfigs",
     "description": "TSConfig files for projects created from the solidjs/templates and solidjs/solid-start repos.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
+    "name": "vike-tsconfigs",
+    "url": "https://gitlab.com/joaommpalmeiro/vike-tsconfigs",
+    "description": "TSConfig files for projects created with create-vike and Bâti.",
     "category": "Packages",
     "subcategory": "Shareable Configs"
   },

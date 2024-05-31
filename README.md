@@ -52,13 +52,16 @@
 #### Shareable Configs
 
 - [@joaopalmeiro/biome-config](https://codeberg.org/joaopalmeiro/biome-config): My personal Biome config.
+- [@joaopalmeiro/biome-react-config](https://gitlab.com/joaommpalmeiro/biome-react-config): My personal Biome config for React projects.
 - [@joaopalmeiro/biome-solid-config](https://codeberg.org/joaopalmeiro/biome-solid-config): My personal Biome config for Solid/SolidStart projects.
+- [@joaopalmeiro/prettier-astro-config](https://gitlab.com/joaommpalmeiro/prettier-astro-config): My personal Prettier config for Astro projects.
 - [@joaopalmeiro/prettier-config](https://github.com/joaopalmeiro/prettier-config): My personal Prettier config.
 - [@joaopalmeiro/prettier-vue-config](https://github.com/joaopalmeiro/prettier-vue-config): My personal Prettier config for Vue/Nuxt projects.
 - [create-vue-tsconfigs](https://github.com/joaopalmeiro/create-vue-tsconfigs): TSConfig files for projects created with create-vue.
 - [misc-tsconfigs](https://codeberg.org/joaopalmeiro/misc-tsconfigs): TSConfig files from different projects to reuse in new projects.
 - [npm-package-json-lint-config-package](https://github.com/joaopalmeiro/npm-package-json-lint-config-package): Shareable npm-package-json-lint configuration for packages.
 - [solidjs-templates-tsconfigs](https://github.com/joaopalmeiro/solidjs-templates-tsconfigs): TSConfig files for projects created from the solidjs/templates and solidjs/solid-start repos.
+- [vike-tsconfigs](https://gitlab.com/joaommpalmeiro/vike-tsconfigs): TSConfig files for projects created with create-vike and Bâti.
 
 ### Setups
 
