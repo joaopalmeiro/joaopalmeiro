@@ -266,6 +266,20 @@
     "subcategory": "Frontend"
   },
   {
+    "name": "template-react-vite",
+    "url": "https://gitlab.com/joaommpalmeiro/template-react-vite",
+    "description": "Opinionated React + Vite template for new projects.",
+    "category": "Templates",
+    "subcategory": "Frontend"
+  },
+  {
+    "name": "template-react-vite-tailwind",
+    "url": "https://gitlab.com/joaommpalmeiro/template-react-vite-tailwind",
+    "description": "Opinionated React + Vite + Tailwind CSS template for new projects.",
+    "category": "Templates",
+    "subcategory": "Frontend"
+  },
+  {
     "name": "template-vue",
     "url": "https://github.com/joaopalmeiro/template-vue",
     "description": "Opinionated Vue template for new projects.",
