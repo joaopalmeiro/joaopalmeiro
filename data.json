@@ -154,6 +154,13 @@
     "subcategory": "Shareable Configs"
   },
   {
+    "name": "@joaopalmeiro/biome-react-vike-config",
+    "url": "https://gitlab.com/joaommpalmeiro/biome-react-vike-config",
+    "description": "My personal Biome config for React + Vike projects.",
+    "category": "Packages",
+    "subcategory": "Shareable Configs"
+  },
+  {
     "name": "@joaopalmeiro/biome-solid-config",
     "url": "https://codeberg.org/joaopalmeiro/biome-solid-config",
     "description": "My personal Biome config for Solid/SolidStart projects.",

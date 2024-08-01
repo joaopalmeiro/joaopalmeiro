@@ -56,6 +56,7 @@
 
 - [@joaopalmeiro/biome-config](https://codeberg.org/joaopalmeiro/biome-config): My personal Biome config.
 - [@joaopalmeiro/biome-react-config](https://gitlab.com/joaommpalmeiro/biome-react-config): My personal Biome config for React projects.
+- [@joaopalmeiro/biome-react-vike-config](https://gitlab.com/joaommpalmeiro/biome-react-vike-config): My personal Biome config for React + Vike projects.
 - [@joaopalmeiro/biome-solid-config](https://codeberg.org/joaopalmeiro/biome-solid-config): My personal Biome config for Solid/SolidStart projects.
 - [@joaopalmeiro/prettier-astro-config](https://gitlab.com/joaommpalmeiro/prettier-astro-config): My personal Prettier config for Astro projects.
 - [@joaopalmeiro/prettier-config](https://github.com/joaopalmeiro/prettier-config): My personal Prettier config.
