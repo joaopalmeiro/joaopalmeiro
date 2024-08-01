@@ -51,6 +51,7 @@
 
 #### JSON
 
+- [jupyterlab-icons](https://codeberg.org/joaopalmeiro/jupyterlab-icons): JupyterLab icons for reference and reuse.
 - [tokenss](https://gitlab.com/joaommpalmeiro/tokenss): Design tokens from different projects as Design Tokens Community Group's JSON (DTCG format).
 
 #### Python

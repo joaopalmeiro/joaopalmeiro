@@ -140,6 +140,13 @@
     "subcategory": "JavaScript"
   },
   {
+    "name": "jupyterlab-icons",
+    "url": "https://codeberg.org/joaopalmeiro/jupyterlab-icons",
+    "description": "JupyterLab icons for reference and reuse.",
+    "category": "Packages",
+    "subcategory": "JSON"
+  },
+  {
     "name": "tokenss",
     "url": "https://gitlab.com/joaommpalmeiro/tokenss",
     "description": "Design tokens from different projects as Design Tokens Community Group's JSON (DTCG format).",
