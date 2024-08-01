@@ -231,108 +231,108 @@
     "subcategory": null
   },
   {
-    "name": "template-astro",
-    "url": "https://github.com/joaopalmeiro/template-astro",
-    "description": "Opinionated Astro template for new projects.",
-    "category": "Templates",
-    "subcategory": null
-  },
-  {
     "name": "template-python-cli",
     "url": "https://github.com/joaopalmeiro/template-python-cli",
     "description": "Opinionated Python template for new CLIs.",
     "category": "Templates",
-    "subcategory": null
+    "subcategory": "CLIs"
   },
   {
-    "name": "template-python-miniconda-notebook",
-    "url": "https://github.com/joaopalmeiro/template-python-miniconda-notebook",
-    "description": "Opinionated Python + Miniconda template for new notebooks.",
+    "name": "template-astro",
+    "url": "https://github.com/joaopalmeiro/template-astro",
+    "description": "Opinionated Astro template for new projects.",
     "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-python-package",
-    "url": "https://github.com/joaopalmeiro/template-python-package",
-    "description": "Opinionated Python template for new packages.",
-    "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-python-script",
-    "url": "https://github.com/joaopalmeiro/template-python-script",
-    "description": "Opinionated Python template for new scripts.",
-    "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-python-uv-notebook",
-    "url": "https://github.com/joaopalmeiro/template-python-uv-notebook",
-    "description": "Opinionated Python + uv template for new notebooks.",
-    "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-python-uv-script",
-    "url": "https://github.com/joaopalmeiro/template-python-uv-script",
-    "description": "Opinionated Python + uv template for new scripts.",
-    "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-python-venv-script",
-    "url": "https://github.com/joaopalmeiro/template-python-venv-script",
-    "description": "Opinionated Python + venv template for new scripts.",
-    "category": "Templates",
-    "subcategory": null
+    "subcategory": "Frontend"
   },
   {
     "name": "template-qwik-city-static",
     "url": "https://github.com/joaopalmeiro/template-qwik-city-static",
     "description": "Opinionated Qwik City + SSG template for new projects.",
     "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-qwik-package",
-    "url": "https://github.com/joaopalmeiro/template-qwik-package",
-    "description": "Opinionated Qwik template for new component packages.",
-    "category": "Templates",
-    "subcategory": null
+    "subcategory": "Frontend"
   },
   {
     "name": "template-react-vike-static",
     "url": "https://gitlab.com/joaommpalmeiro/template-react-vike-static",
     "description": "Opinionated React + Vike + SSG template for new projects.",
     "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-ts-jiti-script",
-    "url": "https://github.com/joaopalmeiro/template-ts-jiti-script",
-    "description": "Opinionated TypeScript + jiti template for new scripts.",
-    "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-ts-package",
-    "url": "https://github.com/joaopalmeiro/template-ts-package",
-    "description": "Opinionated TypeScript template for new packages.",
-    "category": "Templates",
-    "subcategory": null
-  },
-  {
-    "name": "template-ts-tsx-script",
-    "url": "https://github.com/joaopalmeiro/template-ts-tsx-script",
-    "description": "Opinionated TypeScript + tsx template for new scripts.",
-    "category": "Templates",
-    "subcategory": null
+    "subcategory": "Frontend"
   },
   {
     "name": "template-vue",
     "url": "https://github.com/joaopalmeiro/template-vue",
     "description": "Opinionated Vue template for new projects.",
     "category": "Templates",
-    "subcategory": null
+    "subcategory": "Frontend"
+  },
+  {
+    "name": "template-python-miniconda-notebook",
+    "url": "https://github.com/joaopalmeiro/template-python-miniconda-notebook",
+    "description": "Opinionated Python + Miniconda template for new notebooks.",
+    "category": "Templates",
+    "subcategory": "Notebooks"
+  },
+  {
+    "name": "template-python-uv-notebook",
+    "url": "https://github.com/joaopalmeiro/template-python-uv-notebook",
+    "description": "Opinionated Python + uv template for new notebooks.",
+    "category": "Templates",
+    "subcategory": "Notebooks"
+  },
+  {
+    "name": "template-python-package",
+    "url": "https://github.com/joaopalmeiro/template-python-package",
+    "description": "Opinionated Python template for new packages.",
+    "category": "Templates",
+    "subcategory": "Packages"
+  },
+  {
+    "name": "template-qwik-package",
+    "url": "https://github.com/joaopalmeiro/template-qwik-package",
+    "description": "Opinionated Qwik template for new component packages.",
+    "category": "Templates",
+    "subcategory": "Packages"
+  },
+  {
+    "name": "template-ts-package",
+    "url": "https://github.com/joaopalmeiro/template-ts-package",
+    "description": "Opinionated TypeScript template for new packages.",
+    "category": "Templates",
+    "subcategory": "Packages"
+  },
+  {
+    "name": "template-python-script",
+    "url": "https://github.com/joaopalmeiro/template-python-script",
+    "description": "Opinionated Python template for new scripts.",
+    "category": "Templates",
+    "subcategory": "Scripts"
+  },
+  {
+    "name": "template-python-uv-script",
+    "url": "https://github.com/joaopalmeiro/template-python-uv-script",
+    "description": "Opinionated Python + uv template for new scripts.",
+    "category": "Templates",
+    "subcategory": "Scripts"
+  },
+  {
+    "name": "template-python-venv-script",
+    "url": "https://github.com/joaopalmeiro/template-python-venv-script",
+    "description": "Opinionated Python + venv template for new scripts.",
+    "category": "Templates",
+    "subcategory": "Scripts"
+  },
+  {
+    "name": "template-ts-jiti-script",
+    "url": "https://github.com/joaopalmeiro/template-ts-jiti-script",
+    "description": "Opinionated TypeScript + jiti template for new scripts.",
+    "category": "Templates",
+    "subcategory": "Scripts"
+  },
+  {
+    "name": "template-ts-tsx-script",
+    "url": "https://github.com/joaopalmeiro/template-ts-tsx-script",
+    "description": "Opinionated TypeScript + tsx template for new scripts.",
+    "category": "Templates",
+    "subcategory": "Scripts"
   }
 ]

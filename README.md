@@ -73,18 +73,32 @@
 
 ### Templates
 
-- [template-astro](https://github.com/joaopalmeiro/template-astro): Opinionated Astro template for new projects.
+#### CLIs
+
 - [template-python-cli](https://github.com/joaopalmeiro/template-python-cli): Opinionated Python template for new CLIs.
+
+#### Frontend
+
+- [template-astro](https://github.com/joaopalmeiro/template-astro): Opinionated Astro template for new projects.
+- [template-qwik-city-static](https://github.com/joaopalmeiro/template-qwik-city-static): Opinionated Qwik City + SSG template for new projects.
+- [template-react-vike-static](https://gitlab.com/joaommpalmeiro/template-react-vike-static): Opinionated React + Vike + SSG template for new projects.
+- [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
+
+#### Notebooks
+
 - [template-python-miniconda-notebook](https://github.com/joaopalmeiro/template-python-miniconda-notebook): Opinionated Python + Miniconda template for new notebooks.
-- [template-python-package](https://github.com/joaopalmeiro/template-python-package): Opinionated Python template for new packages.
-- [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
 - [template-python-uv-notebook](https://github.com/joaopalmeiro/template-python-uv-notebook): Opinionated Python + uv template for new notebooks.
+
+#### Packages
+
+- [template-python-package](https://github.com/joaopalmeiro/template-python-package): Opinionated Python template for new packages.
+- [template-qwik-package](https://github.com/joaopalmeiro/template-qwik-package): Opinionated Qwik template for new component packages.
+- [template-ts-package](https://github.com/joaopalmeiro/template-ts-package): Opinionated TypeScript template for new packages.
+
+#### Scripts
+
+- [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
 - [template-python-uv-script](https://github.com/joaopalmeiro/template-python-uv-script): Opinionated Python + uv template for new scripts.
 - [template-python-venv-script](https://github.com/joaopalmeiro/template-python-venv-script): Opinionated Python + venv template for new scripts.
-- [template-qwik-city-static](https://github.com/joaopalmeiro/template-qwik-city-static): Opinionated Qwik City + SSG template for new projects.
-- [template-qwik-package](https://github.com/joaopalmeiro/template-qwik-package): Opinionated Qwik template for new component packages.
-- [template-react-vike-static](https://gitlab.com/joaommpalmeiro/template-react-vike-static): Opinionated React + Vike + SSG template for new projects.
 - [template-ts-jiti-script](https://github.com/joaopalmeiro/template-ts-jiti-script): Opinionated TypeScript + jiti template for new scripts.
-- [template-ts-package](https://github.com/joaopalmeiro/template-ts-package): Opinionated TypeScript template for new packages.
 - [template-ts-tsx-script](https://github.com/joaopalmeiro/template-ts-tsx-script): Opinionated TypeScript + tsx template for new scripts.
-- [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
