@@ -8,6 +8,7 @@
 ### CLIs
 
 - [cblone](https://codeberg.org/joaopalmeiro/cblone): A CLI to back up all your Codeberg repositories.
+- [fontmat](https://gitlab.com/joaommpalmeiro/fontmat): A CLI to check font metadata.
 - [glone](https://github.com/joaopalmeiro/glone): A CLI to back up all your GitHub repositories.
 - [lablone](https://gitlab.com/joaommpalmeiro/lablone): A CLI to back up all your GitLab repositories.
 

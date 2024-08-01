@@ -21,6 +21,13 @@
     "subcategory": null
   },
   {
+    "name": "fontmat",
+    "url": "https://gitlab.com/joaommpalmeiro/fontmat",
+    "description": "A CLI to check font metadata.",
+    "category": "CLIs",
+    "subcategory": null
+  },
+  {
     "name": "glone",
     "url": "https://github.com/joaopalmeiro/glone",
     "description": "A CLI to back up all your GitHub repositories.",
