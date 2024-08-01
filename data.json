@@ -77,6 +77,13 @@
     "subcategory": null
   },
   {
+    "name": "pdm-versions",
+    "url": "https://codeberg.org/joaopalmeiro/pdm-versions",
+    "description": "List of PDM, lock file, and Python versions.",
+    "category": "Data",
+    "subcategory": null
+  },
+  {
     "name": "pt-parties-metadata",
     "url": "https://gitlab.com/joaommpalmeiro/pt-parties-metadata",
     "description": "Metadata about Portuguese political parties to reuse in different projects.",

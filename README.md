@@ -22,6 +22,7 @@
 
 - [election-debate-schedules](https://gitlab.com/joaommpalmeiro/election-debate-schedules): JSON and iCalendar files for Portuguese election debate schedules.
 - [instagram-hashtags-photography](https://codeberg.org/joaopalmeiro/instagram-hashtags-photography): A dataset of photography-related hashtags to use on Instagram.
+- [pdm-versions](https://codeberg.org/joaopalmeiro/pdm-versions): List of PDM, lock file, and Python versions.
 - [pt-parties-metadata](https://gitlab.com/joaommpalmeiro/pt-parties-metadata): Metadata about Portuguese political parties to reuse in different projects.
 
 ### Design
