@@ -119,6 +119,13 @@
     "subcategory": null
   },
   {
+    "name": "customss",
+    "url": "https://gitlab.com/joaommpalmeiro/customss",
+    "description": "Design tokens from different projects as CSS variables.",
+    "category": "Packages",
+    "subcategory": "CSS"
+  },
+  {
     "name": "resetss",
     "url": "https://gitlab.com/joaommpalmeiro/resetss",
     "description": "Different CSS resets ready to be used.",
