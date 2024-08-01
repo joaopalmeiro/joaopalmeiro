@@ -69,6 +69,7 @@
 ### Setups
 
 - [dotfiles](https://github.com/joaopalmeiro/dotfiles): A collection of dotfiles and related personal notes.
+- [try-jupyterlab-extension-template](https://gitlab.com/joaommpalmeiro/try-jupyterlab-extension-template): Environment to test the official JupyterLab extension template.
 
 ### Templates
 

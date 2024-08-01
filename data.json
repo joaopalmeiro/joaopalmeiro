@@ -224,6 +224,13 @@
     "subcategory": null
   },
   {
+    "name": "try-jupyterlab-extension-template",
+    "url": "https://gitlab.com/joaommpalmeiro/try-jupyterlab-extension-template",
+    "description": "Environment to test the official JupyterLab extension template.",
+    "category": "Setups",
+    "subcategory": null
+  },
+  {
     "name": "template-astro",
     "url": "https://github.com/joaopalmeiro/template-astro",
     "description": "Opinionated Astro template for new projects.",
