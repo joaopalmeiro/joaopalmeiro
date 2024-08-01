@@ -322,6 +322,13 @@
     "subcategory": null
   },
   {
+    "name": "template-ts-tsx-script",
+    "url": "https://github.com/joaopalmeiro/template-ts-tsx-script",
+    "description": "Opinionated TypeScript + tsx template for new scripts.",
+    "category": "Templates",
+    "subcategory": null
+  },
+  {
     "name": "template-vue",
     "url": "https://github.com/joaopalmeiro/template-vue",
     "description": "Opinionated Vue template for new projects.",

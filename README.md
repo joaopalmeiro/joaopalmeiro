@@ -86,4 +86,5 @@
 - [template-react-vike-static](https://gitlab.com/joaommpalmeiro/template-react-vike-static): Opinionated React + Vike + SSG template for new projects.
 - [template-ts-jiti-script](https://github.com/joaopalmeiro/template-ts-jiti-script): Opinionated TypeScript + jiti template for new scripts.
 - [template-ts-package](https://github.com/joaopalmeiro/template-ts-package): Opinionated TypeScript template for new packages.
+- [template-ts-tsx-script](https://github.com/joaopalmeiro/template-ts-tsx-script): Opinionated TypeScript + tsx template for new scripts.
 - [template-vue](https://github.com/joaopalmeiro/template-vue): Opinionated Vue template for new projects.
