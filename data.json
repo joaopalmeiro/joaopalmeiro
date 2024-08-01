@@ -280,6 +280,13 @@
     "subcategory": "Frontend"
   },
   {
+    "name": "template-lume-tailwind",
+    "url": "https://github.com/joaopalmeiro/template-lume-tailwind",
+    "description": "Opinionated Lume + Tailwind CSS template for new projects.",
+    "category": "Templates",
+    "subcategory": "Frontend"
+  },
+  {
     "name": "template-qwik-city-static",
     "url": "https://github.com/joaopalmeiro/template-qwik-city-static",
     "description": "Opinionated Qwik City + SSG template for new projects.",

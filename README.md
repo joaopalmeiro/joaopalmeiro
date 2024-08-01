@@ -88,6 +88,7 @@
 #### Frontend
 
 - [template-astro](https://github.com/joaopalmeiro/template-astro): Opinionated Astro template for new projects.
+- [template-lume-tailwind](https://github.com/joaopalmeiro/template-lume-tailwind): Opinionated Lume + Tailwind CSS template for new projects.
 - [template-qwik-city-static](https://github.com/joaopalmeiro/template-qwik-city-static): Opinionated Qwik City + SSG template for new projects.
 - [template-react-vike-static](https://gitlab.com/joaommpalmeiro/template-react-vike-static): Opinionated React + Vike + SSG template for new projects.
 - [template-react-vite](https://gitlab.com/joaommpalmeiro/template-react-vite): Opinionated React + Vite template for new projects.
