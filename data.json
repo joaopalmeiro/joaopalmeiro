@@ -336,6 +336,13 @@
     "subcategory": "Packages"
   },
   {
+    "name": "template-figma-plugin-script",
+    "url": "https://codeberg.org/joaopalmeiro/template-figma-plugin-script",
+    "description": "Opinionated template for new Figma plugins without UI.",
+    "category": "Templates",
+    "subcategory": "Scripts"
+  },
+  {
     "name": "template-python-script",
     "url": "https://github.com/joaopalmeiro/template-python-script",
     "description": "Opinionated Python template for new scripts.",

@@ -105,6 +105,7 @@
 
 #### Scripts
 
+- [template-figma-plugin-script](https://codeberg.org/joaopalmeiro/template-figma-plugin-script): Opinionated template for new Figma plugins without UI.
 - [template-python-script](https://github.com/joaopalmeiro/template-python-script): Opinionated Python template for new scripts.
 - [template-python-uv-script](https://github.com/joaopalmeiro/template-python-uv-script): Opinionated Python + uv template for new scripts.
 - [template-python-venv-script](https://github.com/joaopalmeiro/template-python-venv-script): Opinionated Python + venv template for new scripts.
