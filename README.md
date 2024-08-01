@@ -48,6 +48,10 @@
 
 - [constantes](https://gitlab.com/joaommpalmeiro/constantes): Reusable constants for different projects.
 
+#### JSON
+
+- [tokenss](https://gitlab.com/joaommpalmeiro/tokenss): Design tokens from different projects as Design Tokens Community Group's JSON (DTCG format).
+
 #### Python
 
 - [gaveta](https://gitlab.com/joaommpalmeiro/gaveta): Vanilla utility functions for different projects.

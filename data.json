@@ -133,6 +133,13 @@
     "subcategory": "JavaScript"
   },
   {
+    "name": "tokenss",
+    "url": "https://gitlab.com/joaommpalmeiro/tokenss",
+    "description": "Design tokens from different projects as Design Tokens Community Group's JSON (DTCG format).",
+    "category": "Packages",
+    "subcategory": "JSON"
+  },
+  {
     "name": "gaveta",
     "url": "https://gitlab.com/joaommpalmeiro/gaveta",
     "description": "Vanilla utility functions for different projects.",
