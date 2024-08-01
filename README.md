@@ -31,6 +31,7 @@
 ### Experiments
 
 - [clean-envs-bun](https://gitlab.com/joaommpalmeiro/clean-envs-bun): Delete conda and Pipenv virtual environments via Bun Shell.
+- [try-eslint-plugin-comment-length](https://gitlab.com/joaommpalmeiro/try-eslint-plugin-comment-length): Try eslint-plugin-comment-length and Rewrap to format CSS and JavaScript comments.
 
 ### Notes
 
