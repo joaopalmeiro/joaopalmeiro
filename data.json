@@ -4,6 +4,6 @@
     "url": "https://github.com/joaopalmeiro/template-python-uv-script",
     "description": "Opinionated Python + uv template for new scripts.",
     "category": "Templates",
-    "subcategory": "Scripts"
+    "subcategory": null
   }
 ]
