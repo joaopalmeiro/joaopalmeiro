@@ -5,5 +5,12 @@
     "description": "Opinionated Python + uv template for new scripts.",
     "category": "Templates",
     "subcategory": null
+  },
+  {
+    "name": "My Projects",
+    "url": "https://github.com/joaopalmeiro/my-projects",
+    "description": "An overview of my projects to manage their maintenance.",
+    "category": "Tools",
+    "subcategory": null
   }
 ]
