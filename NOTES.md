@@ -7,7 +7,13 @@
 - https://xojoc.pw/blog/jq-sort-json
 - "It uses `tostring` to convert each value to a string, which handles non-string values [(e.g., `null`)]."
 - https://github.com/serde-rs/json
+  - https://crates.io/crates/serde_json
+  - https://serde.rs/derive.html
+    - `serde = { version = "1.0.228", features = ["derive"] }`
 - https://koenwoortman.com/rust-read-file-to-string/
+- https://doc.rust-lang.org/std/string/struct.String.html#examples: `let mut hello = String::from("Hello, ");` + `hello.push_str("orld!");`
+- https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html: "`Ownership` is a set of rules that govern how a Rust program manages memory."
+- https://doc.rust-lang.org/beta/std/collections/btree_map/enum.Entry.html#method.or_default
 
 ## Development
 
@@ -18,7 +24,7 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```
 
 ```bash
-jq 'sort_by((.category | ascii_downcase), (.subcategory | tostring | ascii_downcase), (.name | ascii_downcase))' data.json > sorted.json && mv sorted.json data.json
+jq 'sort_by((.category | ascii_downcase), (.name | ascii_downcase))' data.json > sorted.json && mv sorted.json data.json
 ```
 
 ```bash
@@ -36,6 +42,10 @@ jq --help
 ```
 
 ```bash
+jq 'sort_by((.category | ascii_downcase), (.subcategory | tostring | ascii_downcase), (.name | ascii_downcase))' data.json > sorted.json && mv sorted.json data.json
+```
+
+```bash
 jq 'sort_by(.category, .subcategory, .name)' data.json > sorted.json && mv sorted.json data.json
 ```
 
@@ -44,6 +54,15 @@ jq 'empty' data.json
 ```
 
 ## Snippets
+
+```json
+{
+  "name": "",
+  "url": "",
+  "description": "",
+  "category": ""
+}
+```
 
 ```json
 {

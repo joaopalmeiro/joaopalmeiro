@@ -1,16 +1,20 @@
 [
   {
-    "name": "template-python-uv-script",
-    "url": "https://github.com/joaopalmeiro/template-python-uv-script",
-    "description": "Opinionated Python + uv template for new scripts.",
-    "category": "Templates",
-    "subcategory": null
+    "name": "joao.town",
+    "url": "https://github.com/joaopalmeiro/joao.town",
+    "description": "My personal website.",
+    "category": "Personal"
   },
   {
     "name": "My Projects",
     "url": "https://github.com/joaopalmeiro/my-projects",
     "description": "An overview of my projects to manage their maintenance.",
-    "category": "Tools",
-    "subcategory": null
+    "category": "Personal"
+  },
+  {
+    "name": "template-python-uv-script",
+    "url": "https://github.com/joaopalmeiro/template-python-uv-script",
+    "description": "Opinionated Python + uv template for new scripts.",
+    "category": "Templates"
   }
 ]
