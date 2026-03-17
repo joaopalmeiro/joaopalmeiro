@@ -6,6 +6,28 @@
 - https://stackoverflow.com/questions/72277908/how-to-sort-case-insensitive-using-jq
 - https://xojoc.pw/blog/jq-sort-json
 - "It uses `tostring` to convert each value to a string, which handles non-string values [(e.g., `null`)]."
+- https://github.com/serde-rs/json
+- https://koenwoortman.com/rust-read-file-to-string/
+
+## Development
+
+Install [rustup](https://rust-lang.org/tools/install/) (if necessary):
+
+```bash
+curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+```
+
+```bash
+jq 'sort_by((.category | ascii_downcase), (.subcategory | tostring | ascii_downcase), (.name | ascii_downcase))' data.json > sorted.json && mv sorted.json data.json
+```
+
+```bash
+cargo run
+```
+
+```bash
+cargo fmt
+```
 
 ## Commands
 
@@ -15,10 +37,6 @@ jq --help
 
 ```bash
 jq 'sort_by(.category, .subcategory, .name)' data.json > sorted.json && mv sorted.json data.json
-```
-
-```bash
-jq 'sort_by((.category | ascii_downcase), (.subcategory | tostring | ascii_downcase), (.name | ascii_downcase))' data.json > sorted.json && mv sorted.json data.json
 ```
 
 ```bash
