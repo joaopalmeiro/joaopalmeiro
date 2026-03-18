@@ -6,6 +6,12 @@
     "category": "Personal"
   },
   {
+    "name": "joaopalmeiro",
+    "url": "https://github.com/joaopalmeiro/joaopalmeiro",
+    "description": "My GitHub/GitLab/Codeberg profile README.",
+    "category": "Personal"
+  },
+  {
     "name": "My Projects",
     "url": "https://github.com/joaopalmeiro/my-projects",
     "description": "An overview of my projects to manage their maintenance.",
