@@ -1,6 +1,8 @@
 # Notes
 
-- https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme
+My GitHub/GitLab/Codeberg profile README.
+
+- https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
 - https://hyperskill.org/learn/step/29730
 - https://jqlang.github.io/jq/manual/#sort-sort_by
 - https://stackoverflow.com/questions/72277908/how-to-sort-case-insensitive-using-jq
@@ -14,6 +16,9 @@
 - https://doc.rust-lang.org/std/string/struct.String.html#examples: `let mut hello = String::from("Hello, ");` + `hello.push_str("orld!");`
 - https://doc.rust-lang.org/book/ch04-01-what-is-ownership.html: "`Ownership` is a set of rules that govern how a Rust program manages memory."
 - https://doc.rust-lang.org/beta/std/collections/btree_map/enum.Entry.html#method.or_default
+- `Cargo.toml`:
+  - https://doc.rust-lang.org/cargo/reference/manifest.html
+  - https://crates.io/category_slugs
 
 ## Development
 

@@ -1,7 +1,14 @@
 [package]
 name = "joaopalmeiro"
-version = "0.1.0"
-edition = "2021"
+version = "0.0.0"
+authors = ["João Palmeiro <joaopalmeiro@proton.me>"]
+edition = "2024"
+description = "My GitHub/GitLab/Codeberg profile README."
+readme = "README.md"
+homepage = "https://github.com/joaopalmeiro"
+repository = "https://github.com/joaopalmeiro/joaopalmeiro"
+license = "MIT"
+publish = false
 
 [dependencies]
 serde = { version = "1.0.228", features = ["derive"] }
