@@ -1,5 +1,9 @@
 ## Active Projects
 
+### Data Visualization
+
+- [A chart walks into a bar](https://github.com/joaopalmeiro/a-chart-walks-into-a-bar): One bar chart, different data visualization packages.
+
 ### Personal
 
 - [joao.town](https://github.com/joaopalmeiro/joao.town): My personal website.
@@ -9,3 +13,8 @@
 ### Templates
 
 - [template-python-uv-script](https://github.com/joaopalmeiro/template-python-uv-script): Opinionated Python + uv template for new scripts.
+
+### Utilities
+
+- [codefor](https://github.com/joaopalmeiro/codefor): Search for code and annotations from local repos.
+- [userscripts](https://github.com/joaopalmeiro/userscripts): A collection of userscripts to facilitate certain tasks on different websites.

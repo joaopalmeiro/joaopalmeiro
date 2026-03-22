@@ -1,5 +1,11 @@
 [
   {
+    "name": "A chart walks into a bar",
+    "url": "https://github.com/joaopalmeiro/a-chart-walks-into-a-bar",
+    "description": "One bar chart, different data visualization packages.",
+    "category": "Data Visualization"
+  },
+  {
     "name": "joao.town",
     "url": "https://github.com/joaopalmeiro/joao.town",
     "description": "My personal website.",
@@ -22,5 +28,17 @@
     "url": "https://github.com/joaopalmeiro/template-python-uv-script",
     "description": "Opinionated Python + uv template for new scripts.",
     "category": "Templates"
+  },
+  {
+    "name": "codefor",
+    "url": "https://github.com/joaopalmeiro/codefor",
+    "description": "Search for code and annotations from local repos.",
+    "category": "Utilities"
+  },
+  {
+    "name": "userscripts",
+    "url": "https://github.com/joaopalmeiro/userscripts",
+    "description": "A collection of userscripts to facilitate certain tasks on different websites.",
+    "category": "Utilities"
   }
 ]
