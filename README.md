@@ -17,4 +17,5 @@
 ### Utilities
 
 - [codefor](https://github.com/joaopalmeiro/codefor): Search for code and annotations from local repos.
+- [del-ignore](https://gitlab.com/joaommpalmeiro/del-ignore): A CLI to delete all gitignored files in a project.
 - [userscripts](https://github.com/joaopalmeiro/userscripts): A collection of userscripts to facilitate certain tasks on different websites.

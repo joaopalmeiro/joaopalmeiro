@@ -36,6 +36,12 @@
     "category": "Utilities"
   },
   {
+    "name": "del-ignore",
+    "url": "https://gitlab.com/joaommpalmeiro/del-ignore",
+    "description": "A CLI to delete all gitignored files in a project.",
+    "category": "Utilities"
+  },
+  {
     "name": "userscripts",
     "url": "https://github.com/joaopalmeiro/userscripts",
     "description": "A collection of userscripts to facilitate certain tasks on different websites.",
