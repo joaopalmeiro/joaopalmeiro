@@ -42,6 +42,12 @@
     "category": "Utilities"
   },
   {
+    "name": "passarinho",
+    "url": "https://codeberg.org/joaopalmeiro/passarinho",
+    "description": "A CLI for taking different website snapshots.",
+    "category": "Utilities"
+  },
+  {
     "name": "userscripts",
     "url": "https://github.com/joaopalmeiro/userscripts",
     "description": "A collection of userscripts to facilitate certain tasks on different websites.",
