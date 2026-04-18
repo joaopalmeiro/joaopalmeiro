@@ -30,6 +30,12 @@
     "category": "Templates"
   },
   {
+    "name": "template-react-vite",
+    "url": "https://gitlab.com/joaommpalmeiro/template-react-vite",
+    "description": "Opinionated React + Vite template for new projects.",
+    "category": "Templates"
+  },
+  {
     "name": "codefor",
     "url": "https://github.com/joaopalmeiro/codefor",
     "description": "Search for code and annotations from local repos.",
