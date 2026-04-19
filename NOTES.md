@@ -19,6 +19,11 @@ My GitHub/GitLab/Codeberg profile README.
 - `Cargo.toml`:
   - https://doc.rust-lang.org/cargo/reference/manifest.html
   - https://crates.io/category_slugs
+- https://fosdem.org/2026/schedule/event/7NQJNU-binary_dependencies_identifying_the_hidden_packages_we_all_depend_on/
+  - https://vlad.website/
+  - https://tangled.org/vlad.website/bindep
+  - "Package manifests record source-level dependencies: pandas depends on numpy's code. The story is different for binary dependencies: numpy depends on OpenBLAS's binaries, but package managers can't easily see this."
+  - "Python wheels include vendored binaries for C dependencies"
 
 ## Development
 
