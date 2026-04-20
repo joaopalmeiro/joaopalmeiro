@@ -1,0 +1,6 @@
+{
+  "files.readonlyInclude": {
+    "Cargo.lock": true,
+    "README.md": true
+  }
+}

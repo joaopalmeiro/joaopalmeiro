@@ -3,6 +3,7 @@ name = "joaopalmeiro"
 version = "0.0.0"
 authors = ["João Palmeiro <joaopalmeiro@proton.me>"]
 edition = "2024"
+rust-version = "1.93.1"
 description = "My GitHub/GitLab/Codeberg profile README."
 readme = "README.md"
 homepage = "https://github.com/joaopalmeiro"

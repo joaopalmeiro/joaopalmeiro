@@ -45,6 +45,10 @@ cargo run
 cargo fmt
 ```
 
+```bash
+cargo clippy
+```
+
 ## Commands
 
 ```bash
